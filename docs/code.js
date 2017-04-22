@@ -1,1 +1,1 @@
-
+alert("God Bless You!");
